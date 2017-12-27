@@ -36,7 +36,7 @@
     "lahzenegar"
   ],
   "license": "MIT",
-  "main": "react-checkbox-group.js",
+  "main": "lahzenegar-react-checkbox-group.js",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
@@ -48,5 +48,5 @@
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js  --recursive",
     "test:watch": "npm run test -- --watch"
   },
-  "version": "3.3.4"
+  "version": "1.0.1"
 }
